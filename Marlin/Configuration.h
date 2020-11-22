@@ -499,9 +499,9 @@
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
-  #define DEFAULT_Kp 19.21
-  #define DEFAULT_Ki 1.43
-  #define DEFAULT_Kd 64.51
+  #define DEFAULT_Kp 22.00
+  #define DEFAULT_Ki 1.75
+  #define DEFAULT_Kd 69.02
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
