@@ -3460,6 +3460,7 @@
    *   #define WIFI_PWD  "WiFi Password"
    */
   //#include "Configuration_Secure.h" // External file with WiFi SSID / Passwor#endif
+#endif
 
 /**
  * Průša Multi-Material Unit v2
