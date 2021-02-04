@@ -30,4 +30,3 @@
 #include "../lpc1768/pins_BTT_SKR_V1_4.h"
 #define SPINDLE_LASER_ENA_PIN P1_26
 #define SPINDLE_LASER_PWM_PIN P2_05
-#define ZMIN_PROBE_PIN P0_10
